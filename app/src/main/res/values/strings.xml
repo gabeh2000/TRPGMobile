@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TRPGMobile</string>
+    <string name="continuar">Continuar</string>
+    <string name="carregar_ficha">Carregar Ficha</string>
+    <string name="banco_de_dados">Banco de dados</string>
+    <string name="sobre">Sobre</string>
+    <string name="nova_ficha">Nova Ficha</string>
+</resources>
